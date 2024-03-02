@@ -11,9 +11,4 @@
 
 
     <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp" />
-    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">#ffffff</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/sun</item>
-        <item name="postSplashScreenTheme">@style/Base.Theme.WeatherApp</item>
-    </style>
 </resources>
